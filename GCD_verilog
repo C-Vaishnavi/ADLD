@@ -1,1 +1,5 @@
-will
+GCD [ greatest commmon divisor ] 
+
+In this gcd calculation of two number we are using finite state machine , to control flow of calculation.
+
+
