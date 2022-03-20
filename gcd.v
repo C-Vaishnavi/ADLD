@@ -1,23 +1,5 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    14:29:44 03/19/2022 
-// Design Name: 
-// Module Name:    gcd 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module gcd(
 gt,lt, eq,ldA,ldB,sel1,sel2,sel_in, data_in, clk);
 input ldA ,ldB ,sel1,sel2,sel_in, clk;
