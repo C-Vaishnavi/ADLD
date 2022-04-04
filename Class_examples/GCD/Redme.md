@@ -8,5 +8,5 @@ Data path :
 
 
 Flow chart :
-![](https://github.com/C-Vaishnavi/ADLD/blob/main/Design/gcd_flowchart.drawio%20(2).png)
+![](https://github.com/C-Vaishnavi/ADLD/blob/main/Class_examples/GCD/Design/gcd_flowchart.drawio%20(2).png)
 
